@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": "605d",
+      "name": "capa de chuva",
+      "price": "50.50"
+    },
+    {
+      "id": "ffd5",
+      "name": "capa de chuva",
+      "price": "50.50"
+    },
+    {
+      "id": "b7d1",
+      "name": "teclado",
+      "price": "110"
+    },
+    {
+      "id": "c81c",
+      "name": "mousepad",
+      "price": "40"
+    }
+  ]
+}
